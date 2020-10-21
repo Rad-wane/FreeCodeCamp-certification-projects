@@ -1,8 +1,11 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Oct 20 20:24:14 2020
+"""
+Dev. by: AIT OUHANI Radwane.
+Project: FreeCodeCamp 2nd project.
 
-@author: radwa
+Purpose: README.md
+
 """
 
 def add_time(start_time,duration,s_day="bla"):
