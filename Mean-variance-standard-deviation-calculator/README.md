@@ -10,7 +10,6 @@ A function named `calculate()` in `mean_var_std.py` that uses Numpy to output th
 
 The input of the function should be a list containing 9 digits. The function converts the list into a 3 x 3 Numpy array, and then return a dictionary containing the mean, variance, standard deviation, max, min, and sum along both axes and for the flattened matrix. 
 
-### Example :
 
 The returned dictionary have this format:
 ```py
@@ -23,8 +22,11 @@ The returned dictionary have this format:
   'sum': [axis1, axis2, flattened]
 }
 ```
+### Situation that will return an error:
 
 If a list containing less than 9 elements is passed into the function, it raises a `ValueError` exception with the message: "List must contain nine numbers." The values in the returned dictionary should be lists and not Numpy arrays.
+
+### Example :
 
 For example, `calculate([0,1,2,3,4,5,6,7,8])` returns:
 ```py
