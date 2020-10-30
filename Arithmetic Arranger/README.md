@@ -1,6 +1,6 @@
 ### Arithmetic Arranger
 
-Dev. by : **Radwane Ait Ouhani**
+Dev. by : **Radwane Ait Ouhani**.
 
 Context : **'Scientific Computing with python'** certification project on **FreeCodeCamp**.
 
