@@ -22,7 +22,7 @@ I do not import any Python libraries. I Assume that the start times are valid ti
 
 ### Example :
 
-Below are some examples of different cases the function should handle. Pay close attention to the spacing and punctuation of the results.
+Below are some examples of different cases the function should handle. 
 ```py
 add_time("3:00 PM", "3:10")
 # Returns: 6:10 PM
