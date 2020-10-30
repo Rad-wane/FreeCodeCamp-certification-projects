@@ -1,6 +1,7 @@
-Dev. by : AIT OUHANI Radwane
-FreeCodeCamp 5th project
 
+Dev. by : AIT OUHANI Radwane
+
+Context : **'Scientific Computing with python'** certification project on **FreeCodeCamp**.
 Purpose: 
     Suppose there is a hat containing 5 blue balls, 4 red balls, and 2 green balls. What is 
  the probability that a random draw of 4 balls will contain at least 1 red ball and 2 green

@@ -1,4 +1,4 @@
-### Arithmetic Arranger
+## Arithmetic Arranger
 
 Dev. by : **Radwane Ait Ouhani**.
 
