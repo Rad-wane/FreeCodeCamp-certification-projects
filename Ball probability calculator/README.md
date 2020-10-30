@@ -15,7 +15,7 @@ Context : **'Scientific Computing with python'** certification project on **Free
 
 ### The dev. :
 
-    The Hat class have a `draw` method that accepts an argument indicating the number
+ The Hat class have a `draw` method that accepts an argument indicating the number
  of balls to draw from the hat. This method remove balls at random from contents 
  and return those balls as a list of strings. The balls does not go back into the hat
  during the draw, similar to an urn experiment without replacement. If the number of balls
@@ -24,13 +24,10 @@ Context : **'Scientific Computing with python'** certification project on **Free
 Next, an experiment `function`. 
 This `function`  accept the following arguments:
 
-    * `hat`: A hat object containing balls that should be copied inside the function.
-    * `expected_balls`: An object indicating the exact group of balls to attempt to draw from
-        the hat for the experiment. For example, to determine the probability of drawing 2
-        blue balls and 1 red ball from the hat, set expected_balls to {"blue":2, "red":1}.
-    * `num_balls_drawn`: The number of balls to draw out of the hat in each experiment.
-    * `num_experiments`: The number of experiments to perform. (The more experiments performed, 
-        the more accurate the approximate probability will be.)
+* `hat`: A hat object containing balls that should be copied inside the function.
+* `expected_balls`: An object indicating the exact group of balls to attempt to draw from the hat for the experiment. For example, to determine the probability of drawing 2 blue balls and 1 red ball from the hat, set expected_balls to {"blue":2, "red":1}.
+* `num_balls_drawn`: The number of balls to draw out of the hat in each experiment.
+* `num_experiments`: The number of experiments to perform. (The more experiments performed, the more accurate the approximate probability will be.)
 
 The `experiment` function returns a probability.
 
@@ -41,7 +38,7 @@ red balls and 1 green ball when you draw 5 balls from a hat containing 6 black, 
 and 3 green. To do this, we perform `N` experiments, count how many times `M` we get at least 
 2 red balls and 1 green ball, and estimate the probability as `M/N`. Each experiment 
 consists of starting with a hat containing the specified balls, drawing a number of balls,
- and checking if we got the balls we were attempting to draw.
+and checking if we got the balls we were attempting to draw.
 
 Here is how you would call the experiment function based on the example above with 2000
 experiments:
