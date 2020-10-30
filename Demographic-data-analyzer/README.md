@@ -31,7 +31,7 @@ I use Pandas to answer the following questions:
 
 ### Testing 
 
-Unit tests are written for you under `test_module.py`.
+Unit tests are written under `test_module.py`.
 
 ### Dataset Source
 
