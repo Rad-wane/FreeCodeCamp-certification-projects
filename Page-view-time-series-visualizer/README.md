@@ -18,5 +18,5 @@ I use the data to complete the following tasks:
 
 ### Testing 
 
-Unit tests are written for you under `test_module.py`.
+Unit tests are written under `test_module.py`.
 

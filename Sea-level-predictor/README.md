@@ -17,7 +17,7 @@ I use the data to complete the following tasks:
 
 ### Testing 
 
-Unit tests are written for you under `test_module.py`.
+Unit tests are written under `test_module.py`.
 
 ### Data Source
 Global Average Absolute Sea Level Change, 1880-2014 from the US Environmental Protection Agency using data from CSIRO, 2015; NOAA, 2015.
