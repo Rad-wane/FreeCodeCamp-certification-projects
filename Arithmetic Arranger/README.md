@@ -1,6 +1,7 @@
 ### Arithmetic Arranger
 
 Dev. by : **Radwane Ait Ouhani**
+
 Context : **'Scientific Computing with python'** certification project on **FreeCodeCamp**.
 
 The idea : Students in primary school often arrange arithmetic problems vertically to make them easier to solve. For example, "235 + 52" becomes:
