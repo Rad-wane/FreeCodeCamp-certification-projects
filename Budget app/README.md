@@ -22,7 +22,7 @@ class also contain the following methods:
 This method should be used by both the withdraw method and transfer method.
 
 
-### Exanmpe :
+### Example :
 
 When the `budget` object is printed, here is an example of the output:
 ```
