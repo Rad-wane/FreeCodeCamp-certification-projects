@@ -1,8 +1,12 @@
-### Assignment
+## Demographic Data Analyzer
 
-# Demographic Data Analyzer
+Dev. by : **Radwane Ait Ouhani**.
 
-In this challenge you must analyze demographic data using Pandas. You are given a dataset of demographic data that was extracted from the 1994 Census database. Here is a sample of what the data looks like:
+Context : **'Data Science with Python'** certification project on **FreeCodeCamp**. 
+
+### The idea :
+
+In this project I analyze demographic data using Pandas. Here is a sample of what the data looks like:
 
 |    |   age | workclass        |   fnlwgt | education   |   education-num | marital-status     | occupation        | relationship   | race   | sex    |   capital-gain |   capital-loss |   hours-per-week | native-country   | salary   |
 |---:|------:|:-----------------|---------:|:------------|----------------:|:-------------------|:------------------|:---------------|:-------|:-------|---------------:|---------------:|-----------------:|:-----------------|:---------|
@@ -13,7 +17,7 @@ In this challenge you must analyze demographic data using Pandas. You are given 
 |  4 |    28 | Private          |   338409 | Bachelors   |              13 | Married-civ-spouse | Prof-specialty    | Wife           | Black  | Female |              0 |              0 |               40 | Cuba             | <=50K    |
 
 
-You must use Pandas to answer the following questions:
+I use Pandas to answer the following questions:
 * How many people of each race are represented in this dataset? This should be a Pandas series with race names as the index labels. (`race` column)
 * What is the average age of men?
 * What is the percentage of people who have a Bachelor's degree?
@@ -24,21 +28,10 @@ You must use Pandas to answer the following questions:
 * What country has the highest percentage of people that earn >50K and what is that percentage?
 * Identify the most popular occupation for those who earn >50K in India. 
 
-Use the starter code in the file `demographic_data_anaylizer`. Update the code so all variables set to "None" are set to the appropriate calculation or code. Round all decimals to the nearest tenth.
-
-Unit tests are written for you under `test_module.py`.
-
-### Development
-
-For development, you can use `main.py` to test your functions. Click the "run" button and `main.py` will run.
 
 ### Testing 
 
-We imported the tests from `test_module.py` to `main.py` for your convenience. The tests will run automatically whenever you hit the "run" button.
-
-### Submitting
-
-Copy your project's URL and submit it to freeCodeCamp.
+Unit tests are written for you under `test_module.py`.
 
 ### Dataset Source
 
