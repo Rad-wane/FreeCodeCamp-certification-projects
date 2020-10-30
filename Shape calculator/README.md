@@ -1,4 +1,4 @@
-## Sea level predictor
+## Shape displayer
 
 Dev. by : **Radwane Ait Ouhani**.
 
@@ -69,4 +69,4 @@ That code should return:
     ****
 
     8
-	```
+```
