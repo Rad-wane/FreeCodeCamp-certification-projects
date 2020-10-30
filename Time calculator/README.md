@@ -17,6 +17,7 @@ The function adds the duration time to the start time and return the result.
 
 * If the result will be the next day, it shows `(next day)` after the time. If the result will be more than one day later, it shows `(n days later)` after the time, where "n" is the number of days later.
 * If the function is given the optional starting day of the week parameter, then the output displays the day of the week of the result. The day of the week in the output appears after the time and before the number of days later.
+
 I do not import any Python libraries. I Assume that the start times are valid times. The minutes in the duration time will be a whole number less than 60, but the hour can be any whole number.
 
 ### Example :
