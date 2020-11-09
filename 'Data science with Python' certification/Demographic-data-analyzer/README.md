@@ -1,6 +1,6 @@
 ## Demographic Data Analyzer
 
-Dev. by : **Radwane Ait Ouhani**.
+Dev. by : **Rad-wane**.
 
 Context : **'Data Science with Python'** certification project on **FreeCodeCamp**. 
 

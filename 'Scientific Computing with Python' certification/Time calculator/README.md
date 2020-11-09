@@ -1,6 +1,6 @@
 ## Time calculator
 
-Dev. by : **Radwane Ait Ouhani**.
+Dev. by : **Rad-wane**.
 
 Context : **'Scientific Computing with python'** certification project on **FreeCodeCamp**.
 
